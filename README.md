@@ -5,6 +5,8 @@
 
 *[Data Analytics June 2019]*
 
+![Cookies](../Datathon_Cookies/cookies.jpg)
+
 ## Content
 - [Project Description](#project-description)
 - [Hypotheses / Questions](#hypotheses-/-questions)
