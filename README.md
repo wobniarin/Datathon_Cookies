@@ -114,23 +114,21 @@ To select our features we used OLS.
 *Include this section only if you chose to include ML in your project.*
 * Describe how you trained your model, the results you obtained, and how you evaluated those results.
 
-For both methods we first defined our model, then split our data
+For both methods we first defined our model, then split our data, fit and looked at the metrics (accuracy and R2).
 
 
 #### 1. Decision tree
-1. split data
+Hyperparameters we looked at:
+- max depth
+- min number of splits
 
 
 #### 2. Linear Regression 
-
-
+OLS for feature selection and roundign of values. 
 
 <a name="conclusion"></a>
 
-## Conclusion
-* Summarize your results. What do they mean?
-* What can you say about your hypotheses?
-* Interpret your findings in terms of the human-understandable question you try to answer.
+
 
 <a name="future-work"></a>
 
